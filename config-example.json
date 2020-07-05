@@ -1,0 +1,15 @@
+{
+    "playlistID": "",
+    "dataDir": "./data/",
+    "interval": 1800000,
+
+    "webhook": {
+        "id": "",
+        "token": ""
+    },
+
+    "spotifyCreds": {
+        "clientId": "",
+        "clientSecret": ""
+    }
+}
